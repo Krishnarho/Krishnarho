@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishnarho
+- 👋 Hi, I’m Krishna Panthi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and then planing React and Node
 - 💞️ I’m looking to collaborate on projects that would enchance my knowledge on above language.
