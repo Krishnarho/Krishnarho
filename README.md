@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Krishna Panthi
+# 👋 Hi, I’m Krishna Panthi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and then planing React and Node
-- 💞️ I’m looking to collaborate on projects that would enchance my knowledge on above language.
+- 💞️ I’m looking to collaborate on open source projects that would enchance my knowledge on above language.
 - 📫 You can reach me on krishnarho@gmail.com
 
 <!---
